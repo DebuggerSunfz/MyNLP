@@ -1,6 +1,6 @@
 # 目录
 > 代码结构：
-> \---MyNLP-main
+> 
     +---data_util
     |   +---logs
     +---static
@@ -21,7 +21,7 @@
     +---data_helper.py  
     +---beam_seacher.py
     +---train_util.py
-    \---
+
     
 - [目录](#目录)
 - [项目概述](#项目概述)
